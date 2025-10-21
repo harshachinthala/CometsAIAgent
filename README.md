@@ -33,7 +33,9 @@ refresh it sends all files
 
 install all required liibraries
 
-pip install -r requirements.txt
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
 
 # Prereqisites
 1. Create an user using IAM 
