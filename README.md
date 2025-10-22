@@ -59,6 +59,14 @@ aws sts get-caller-identity --profile agent1_user
 
 Step 1: 
 
+Create scraper.py to extract job postings from Linkedin and command to run the file
+
+          python3 scraper.py --max 2"
+chrome tab login to linkr=edin and scraps data 
+Linkedin jobs were saved in linkedin_cookies.json
+
+
+
 
 
 
